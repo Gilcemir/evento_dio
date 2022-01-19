@@ -1,0 +1,15 @@
+C:\workspace\cadastroEventos-dio\obj\Debug\net6.0\cadastroEventos-dio.csproj.AssemblyReference.cache
+C:\workspace\cadastroEventos-dio\obj\Debug\net6.0\cadastroEventos-dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\cadastroEventos-dio\obj\Debug\net6.0\cadastroEventos-dio.AssemblyInfoInputs.cache
+C:\workspace\cadastroEventos-dio\obj\Debug\net6.0\cadastroEventos-dio.AssemblyInfo.cs
+C:\workspace\cadastroEventos-dio\obj\Debug\net6.0\cadastroEventos-dio.csproj.CoreCompileInputs.cache
+C:\workspace\cadastroEventos-dio\bin\Debug\net6.0\cadastroEventos-dio.exe
+C:\workspace\cadastroEventos-dio\bin\Debug\net6.0\cadastroEventos-dio.deps.json
+C:\workspace\cadastroEventos-dio\bin\Debug\net6.0\cadastroEventos-dio.runtimeconfig.json
+C:\workspace\cadastroEventos-dio\bin\Debug\net6.0\cadastroEventos-dio.dll
+C:\workspace\cadastroEventos-dio\bin\Debug\net6.0\ref\cadastroEventos-dio.dll
+C:\workspace\cadastroEventos-dio\bin\Debug\net6.0\cadastroEventos-dio.pdb
+C:\workspace\cadastroEventos-dio\obj\Debug\net6.0\cadastroEventos-dio.dll
+C:\workspace\cadastroEventos-dio\obj\Debug\net6.0\ref\cadastroEventos-dio.dll
+C:\workspace\cadastroEventos-dio\obj\Debug\net6.0\cadastroEventos-dio.pdb
+C:\workspace\cadastroEventos-dio\obj\Debug\net6.0\cadastroEventos-dio.genruntimeconfig.cache
